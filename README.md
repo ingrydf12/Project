@@ -1,2 +1,3 @@
 # Project
-ideias.
+
+Projeto de um jogo em Portugol.
